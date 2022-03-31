@@ -1,7 +1,1 @@
-[
-    {
-        "op": "replace",
-        "path": "/spec/template/spec/containers/0/image",
-        "value": "ghcr.io/xcoulon/argo-cd-example:sha-5b90423"
-    }
-]
+[{"op": "replace", "path": "/spec/template/spec/containers/0/image", "value": "ghcr.io/xcoulon/argo-cd-example:sha-8e55c10"}]
