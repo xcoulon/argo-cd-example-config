@@ -19,7 +19,3 @@ spec:
             name: website
             port:
               name: http
-  # tls:
-  # - hosts:
-  #   - website.test
-  #   secretName: argocd-secret
