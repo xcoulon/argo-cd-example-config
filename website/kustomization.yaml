@@ -8,4 +8,4 @@ resources:
 - ingress.yaml
 images:
 - name: ghcr.io/xcoulon/argo-cd-example
-  newTag: sha-697367d
+  newTag: sha-e0ca99c
